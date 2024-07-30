@@ -29,7 +29,7 @@ public class EnhancedChampContainer extends VBox {
     public EnhancedChampContainer(Champion champion) {
 
         champContainer = new VBox();
-        Image champImage = new Image(champion.getImage(), 300, 300, true, true);
+        Image champImage = new Image(champion.getImage(), 283, 283, true, true);
         ImageView champIv = new ImageView(champImage);
 
         Label championName = new Label(champion.getName());
