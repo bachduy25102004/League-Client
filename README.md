@@ -1,8 +1,9 @@
 # LEAGUE OF LEGENDS CLIENT IN JAVAFX
 
-Home Screen
+<p align="center">Home Screen</p> 
+
 ![Home Screen](images/main.png)
 
-Champion View Screen
-![Champion View Screen](images/champion.png)
+<p align="center">Champion View Screen</p> 
 
+![Champion View Screen](images/champion.png)
